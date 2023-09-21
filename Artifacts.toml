@@ -1,35 +1,35 @@
 [[CUDA_SDK]]
 arch = "x86_64"
-git-tree-sha1 = "f3b3adf972ebefb217899c3b25d45ff92861dedd"
+git-tree-sha1 = "6415bbfdd06fbd0a2fd41df1123223f1b91875b0"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_SDK.download]]
-    sha256 = "377d18a7a4cf614f031bb817c242a0b49456551176200678cd88b096d5c86924"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_jll.jl/releases/download/CUDA_SDK-v11.5.2+1/CUDA_SDK.v11.5.2.x86_64-linux-gnu.tar.gz"
+    sha256 = "ab93b05755bf43aed25417946892bac0e6645420ea42e0c461cdfe0e2180aaad"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_jll.jl/releases/download/CUDA_SDK-v11.4.4+1/CUDA_SDK.v11.4.4.x86_64-linux-gnu.tar.gz"
 [[CUDA_SDK]]
 arch = "powerpc64le"
-git-tree-sha1 = "645c90b5bf566424823dd5f83e5bf33800d44967"
+git-tree-sha1 = "617125eb2dd5a4655ff1c85beb7b22b635edf9a1"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_SDK.download]]
-    sha256 = "d42a134c484a3afa560c678d3173e682232a4465b67995ad96a939f958941634"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_jll.jl/releases/download/CUDA_SDK-v11.5.2+1/CUDA_SDK.v11.5.2.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "e8d4385ae4ab20062583d536d045a804e2cc163f84d7bc907b2fbf08ae78e515"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_jll.jl/releases/download/CUDA_SDK-v11.4.4+1/CUDA_SDK.v11.4.4.powerpc64le-linux-gnu.tar.gz"
 [[CUDA_SDK]]
 arch = "aarch64"
-git-tree-sha1 = "ebd710eb7fb5036498bf723841b667c62c21c610"
+git-tree-sha1 = "d9c7e364be9d1c659d36015ef9cb2303ae94c295"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_SDK.download]]
-    sha256 = "c7bd260ac02eb5fc6516a861c4cde96b6c31bc82ca224fe9785bab592c81f37d"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_jll.jl/releases/download/CUDA_SDK-v11.5.2+1/CUDA_SDK.v11.5.2.aarch64-linux-gnu.tar.gz"
+    sha256 = "579c634b75eee3bb9f671193c54e217f20a0ab3aacf0271978fa6c207d82cf1f"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_jll.jl/releases/download/CUDA_SDK-v11.4.4+1/CUDA_SDK.v11.4.4.aarch64-linux-gnu.tar.gz"
 [[CUDA_SDK]]
 arch = "x86_64"
-git-tree-sha1 = "c9936800b1f78f409dbdbe48c8e26eab97186bfe"
+git-tree-sha1 = "6968e6e505064ed51911ef8da7fd2e126aae809c"
 os = "windows"
 
     [[CUDA_SDK.download]]
-    sha256 = "c0085c90e96492919f368b4180b746763fd0754ab89d949a5c9aa7b625dc5ad0"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_jll.jl/releases/download/CUDA_SDK-v11.5.2+1/CUDA_SDK.v11.5.2.x86_64-w64-mingw32.tar.gz"
+    sha256 = "1ad24b008b3f885c441a96d4d36941697313fb0b9062265ebcc97031a5d58f9c"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_jll.jl/releases/download/CUDA_SDK-v11.4.4+1/CUDA_SDK.v11.4.4.x86_64-w64-mingw32.tar.gz"
