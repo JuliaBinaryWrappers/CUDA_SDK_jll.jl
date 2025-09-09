@@ -1,26 +1,29 @@
 [[CUDA_SDK]]
 arch = "x86_64"
-git-tree-sha1 = "76a420a8f6e67ada824608faeba95610d3534952"
+cuda = "13"
+git-tree-sha1 = "7b50c778f541cb3a1edcbe402d39d9574a04a2d9"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_SDK.download]]
-    sha256 = "ca4623dfd3e54409916788b2a632ad1484d1fb78afb52d88f4bfbf6c0e8255d3"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_jll.jl/releases/download/CUDA_SDK-v13.0.0+0/CUDA_SDK.v13.0.0.x86_64-linux-gnu.tar.xz"
+    sha256 = "6039cf6d6afa909b777706428ca627948d9f51d3c98768f97c3bc14f0e796aa9"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_jll.jl/releases/download/CUDA_SDK-v13.0.1+0/CUDA_SDK.v13.0.1.x86_64-linux-gnu-cuda+13.tar.xz"
 [[CUDA_SDK]]
 arch = "aarch64"
-git-tree-sha1 = "118fe1bed5deab0c5b705749e0a9b5da8b206af0"
+cuda = "13"
+git-tree-sha1 = "9d5916bd7bf5c578b0a47d88a34a8f872bb1711f"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_SDK.download]]
-    sha256 = "ee193e1c3e378327863ed979989024420ba6cd032b23e85d8f888ad9b1091cde"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_jll.jl/releases/download/CUDA_SDK-v13.0.0+0/CUDA_SDK.v13.0.0.aarch64-linux-gnu.tar.xz"
+    sha256 = "e0fc57524a40ab795c5039f53cf2fb19a2e98dc6628439b3d3e66d875f7f4976"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_jll.jl/releases/download/CUDA_SDK-v13.0.1+0/CUDA_SDK.v13.0.1.aarch64-linux-gnu-cuda+13.tar.xz"
 [[CUDA_SDK]]
 arch = "x86_64"
-git-tree-sha1 = "c021ed4e972e0ffa2a1b9225d91c3d9de0411ebb"
+cuda = "13"
+git-tree-sha1 = "a66170f73c55be976eb2ac0198f327a3d0724ef6"
 os = "windows"
 
     [[CUDA_SDK.download]]
-    sha256 = "f0b1128b5874c91bfb02c8d99a2972a07150901a5427b81179d6d1daf59bf8a7"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_jll.jl/releases/download/CUDA_SDK-v13.0.0+0/CUDA_SDK.v13.0.0.x86_64-w64-mingw32.tar.xz"
+    sha256 = "a9273506a8b15c1d116b6f84e2febe6e676504d4f285147cb3188a7c323e12f2"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_jll.jl/releases/download/CUDA_SDK-v13.0.1+0/CUDA_SDK.v13.0.1.x86_64-w64-mingw32-cuda+13.tar.xz"
