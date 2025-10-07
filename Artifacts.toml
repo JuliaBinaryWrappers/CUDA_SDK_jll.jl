@@ -1,29 +1,29 @@
 [[CUDA_SDK]]
 arch = "x86_64"
 cuda = "13"
-git-tree-sha1 = "7b50c778f541cb3a1edcbe402d39d9574a04a2d9"
+git-tree-sha1 = "75f222ebfd01eb66c5e0c48aadc5da7656942417"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_SDK.download]]
-    sha256 = "6039cf6d6afa909b777706428ca627948d9f51d3c98768f97c3bc14f0e796aa9"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_jll.jl/releases/download/CUDA_SDK-v13.0.1+0/CUDA_SDK.v13.0.1.x86_64-linux-gnu-cuda+13.tar.xz"
+    sha256 = "65c7c2de13e8c4eedbc20f5c6af901f9fb4eed2948bccfed9191e3a3ce13479b"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_jll.jl/releases/download/CUDA_SDK-v13.0.1+1/CUDA_SDK.v13.0.1.x86_64-linux-gnu-cuda+13.tar.xz"
 [[CUDA_SDK]]
 arch = "aarch64"
 cuda = "13"
-git-tree-sha1 = "9d5916bd7bf5c578b0a47d88a34a8f872bb1711f"
+git-tree-sha1 = "2ecaaf001c5b5ecc3518b4278f1ee982627a920b"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_SDK.download]]
-    sha256 = "e0fc57524a40ab795c5039f53cf2fb19a2e98dc6628439b3d3e66d875f7f4976"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_jll.jl/releases/download/CUDA_SDK-v13.0.1+0/CUDA_SDK.v13.0.1.aarch64-linux-gnu-cuda+13.tar.xz"
+    sha256 = "fb5a22e4ecd60036e47dea70b8739c1375e8616db851c8daf416c208ae7eec34"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_jll.jl/releases/download/CUDA_SDK-v13.0.1+1/CUDA_SDK.v13.0.1.aarch64-linux-gnu-cuda+13.tar.xz"
 [[CUDA_SDK]]
 arch = "x86_64"
 cuda = "13"
-git-tree-sha1 = "a66170f73c55be976eb2ac0198f327a3d0724ef6"
+git-tree-sha1 = "3d0b6ee0566db1783888000604e2b4a996090190"
 os = "windows"
 
     [[CUDA_SDK.download]]
-    sha256 = "a9273506a8b15c1d116b6f84e2febe6e676504d4f285147cb3188a7c323e12f2"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_jll.jl/releases/download/CUDA_SDK-v13.0.1+0/CUDA_SDK.v13.0.1.x86_64-w64-mingw32-cuda+13.tar.xz"
+    sha256 = "3df32d004ac7db08a2373559e7371216992ad018b0d36422d2ef771a538a0b0f"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_jll.jl/releases/download/CUDA_SDK-v13.0.1+1/CUDA_SDK.v13.0.1.x86_64-w64-mingw32-cuda+13.tar.xz"
